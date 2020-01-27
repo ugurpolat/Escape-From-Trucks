@@ -14,4 +14,9 @@ Project is created with:
 * Unity: 2019.2.11f1
 
 ## How to play
+W,A,S,D for move.
+Mouse is for rotating the user.
+
+![](trucks2.gif)
+
 

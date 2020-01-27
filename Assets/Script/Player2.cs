@@ -5,13 +5,15 @@ using UnityEngine;
 public class Player2 : MonoBehaviour
 {
     bool canMove = false;
-    [SerializeField]
-    float moveSpeed;
-    [SerializeField]
-    float maxPosX;
+
+    float moveSpeed = 5f;
+
+    float maxPosX = 15.41f;
+    float minPosX = -15.41f;
+
 
     float maxPosY = 4.4f;
-    float minPosY = -8.55f;
+    float minPosY = -8.04f;
 
     public GameObject bar;
     int time = 30;

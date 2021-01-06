@@ -1,5 +1,3 @@
-# Escape From Trucks
-
 ![](trucks2.gif)
 
 Simple game application with Unity3d.

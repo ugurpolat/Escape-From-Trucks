@@ -1,4 +1,7 @@
 # Escape From Trucks
+
+![](trucks2.gif)
+
 Simple game application with Unity3d.
 
 ## Table of contents
@@ -7,7 +10,7 @@ Simple game application with Unity3d.
 * [How to play](#how-to-play)
 
 ## General info
-This project is a clone. It is based on Frogger Game(1981, Konami).
+This project I implemented Frogger Game(1981, Konami).
 
 ## Technologies
 Project is created with:
@@ -17,6 +20,6 @@ Project is created with:
 W,A,S,D for move.
 Mouse is for rotating the user.
 
-![](trucks2.gif)
+
 
 
